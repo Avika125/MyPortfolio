@@ -30,5 +30,3 @@ text
 - **Projects** (9 filtered)
 - Contact Form
 
-##  Deployed
-**[avikagupta.netlify.app](https://avikagupta.netlify.app/)**
